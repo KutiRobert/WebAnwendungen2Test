@@ -3,7 +3,7 @@ package baba;
 public class Huhuu {
 
 	public static void main(String[] args) {
-		System.out.println("jep alter");
+		System.out.println("jep alter, was geht ab?");
 
 	}
 
